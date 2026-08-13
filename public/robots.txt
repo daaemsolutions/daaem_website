@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://daaem.com.sa/sitemap.xml
