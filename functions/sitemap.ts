@@ -9,7 +9,7 @@ Deno.serve(async (req) => {
     const publishedPosts = posts.filter(p => p.status === 'published');
     
     // Base URL - adjust based on your domain
-    const baseUrl = 'https://yourdomain.com'; // Change to actual domain
+    const baseUrl = 'https://daaem.com.sa';
     
     // Static pages
     const staticPages = [
