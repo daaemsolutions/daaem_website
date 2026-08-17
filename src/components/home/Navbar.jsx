@@ -29,6 +29,7 @@ export default function Navbar() {
     { label: t.nav.home[lang],     href: "#" },
     { label: t.nav.about[lang],    href: "#about" },
     { label: t.nav.services[lang], href: "#services" },
+    { label: lang === "ar" ? "خدماتنا" : "Services", href: "/services/" },
     { label: lang === "ar" ? "المدونة" : "Blog", href: "/blog/" },
   ];
 
